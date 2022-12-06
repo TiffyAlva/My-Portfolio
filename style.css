@@ -315,7 +315,7 @@ header {
 }
 
 .bio__body--paragraph {
-  font-family: "Roboto", sans-serif;
+  font-family:Georgia, 'Times New Roman', Times, serif;
 }
 
 .subhead {
@@ -541,10 +541,6 @@ header {
   -o-border-radius: 0 5px 0 0;
 }
 
-.twitter {
-  background: #55ACEE;
-  color: white;
-}
 
 .github {
   background: #44bd32;
