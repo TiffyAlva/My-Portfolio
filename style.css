@@ -433,7 +433,9 @@ header {
 }
 
 .social-list__item {
-  margin: 0 0.5em;
+  /* margin: 0 0.5em; */
+  margin-right: 0.5px;
+  margin-left: 0.5px;
 }
 
 .social-list__link {
