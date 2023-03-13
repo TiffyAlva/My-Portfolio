@@ -316,6 +316,7 @@ header {
 
 .bio__body--paragraph {
   font-family:Georgia, 'Times New Roman', Times, serif;
+  text-align:justify;
 }
 
 .subhead {
