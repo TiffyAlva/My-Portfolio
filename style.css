@@ -366,7 +366,6 @@ header {
 
 .portfolio__item {
   background: var(--clr-dark);
-  /* overflow: hidden; */
 }
 
 .portfolio__img {
@@ -404,9 +403,7 @@ header {
   text-align: center;
   height: 300px;
   padding: 2.5em 0 0 0;
-  font-size: var(--fs-h3);
-  
-  
+  font-size: var(--fs-h3);  
 }
 
 .footer a {
@@ -424,7 +421,7 @@ header {
 }
 
 .footer__link:hover {
-  text-decoration: underline;
+  border-bottom: 2px solid;
 }
 
 .social-list {
